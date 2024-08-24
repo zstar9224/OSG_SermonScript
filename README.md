@@ -1,5 +1,9 @@
 # OSG_SermonScript (열린하늘문교회 설교문)
 
+## ★★★ 주일  설교 주보 요약문을 추가로 정리했습니다.
+[주보 요약문 바로 가기](https://github.com/zstar9224/OSG_SermonScript/tree/master/OCR)
+
+
 ## 파일 설명
 열린하늘문교회 주일예배 및 수요예배 등 설교를 텍스트로 추출한 파일을 게시
 
